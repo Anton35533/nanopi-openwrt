@@ -15,7 +15,6 @@ CONFIG_DOCKER_OPTIONAL_FEATURES=y
 
 CONFIG_PACKAGE_luci-app-ttyd=y
 CONFIG_PACKAGE_luci-app-uhttpd=y
-CONFIG_PACKAGE_luci-app-linkease=y
 CONFIG_PACKAGE_luci-app-netdata=y
 CONFIG_PACKAGE_luci-app-opkg=y
 CONFIG_PACKAGE_luci-app-cpufreq=y
