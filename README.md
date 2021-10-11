@@ -19,7 +19,7 @@ https://github.com/klever1988/nanopi-openwrt/releases
 
 ### 终端内在线升级方法：
 ```bash
-wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoupdate.sh | sh
+wget -qO- https://github.com/Anton35533/nanopi-openwrt/raw/master/scripts/autoupdate.sh | sh
 ```
 slim版
 ```bash
